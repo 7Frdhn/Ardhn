@@ -269,7 +269,7 @@ img {
 }
 
 .home__name{
-  font-size: var(--biggest-font-size);
+  font-size: 50px;
   font-weight: var(--font-bold);
   word-break: break-word;
   margin-bottom: 1rem;
@@ -343,6 +343,7 @@ img {
   font-weight: var(--font-semi-bold);
   padding: 1.25rem 2rem;
   transition: background-color 4.s;
+  border-radius: 10%;
 }
 
 .button:hover{
@@ -467,8 +468,9 @@ img {
 
 /* SKILLS */
 .skills__img{
-  width: 35px;
+  width: 50px;
   margin-bottom: .5rem;
+  margin-right: 15px;
 }
 
 .skills__name{
@@ -526,6 +528,7 @@ img {
   background-color: var(--container-color);
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
+  border-radius: 5%;
 }
 
 .contact__input::placeholder{

@@ -879,7 +879,7 @@ img {
   }
 
   .contact__social{
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(2, max-content);
     column-gap: 5rem;
   }
 
